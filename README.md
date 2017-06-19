@@ -1,0 +1,2 @@
+# jQueryCookie
+jQuery Cookie
